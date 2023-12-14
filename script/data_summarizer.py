@@ -1,4 +1,4 @@
-import util as util
+import utils.util as util
 import pandas as pd
 
 def summarize_data(df):
